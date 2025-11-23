@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hello, I go by **"Shians"** 🩷
+## 🗒️ About Me:
+- 🎓 College student studying **Software Development**
+- 📷 I make YouTube videos about **technology, coding, and art** → [@ShiansWorkspace](https://youtube.com/@ShiansWorkspace)
+- 💻 Interested in **Front-End Development**
 
+---
+
+## 🌐 How to Reach Me:
+- GitHub: [ShianWorkspace](https://github.com/ShianWorkspace)
+- Instagram: [@ShiansWorkspace](https://instagram.com/ShiansWorkspace)
+- Email: shianworkspace@gmail.com
+
+---
+
+## 📊 Stats:
+[![ShiansWorkspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiansworkspace&hide=stars,prs,issues&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ShiansWorkspace/ShiansWorkspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
